@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of Bitcoin with this quiz.",
+  "questions": [
+    {
+      "question": "Who created Bitcoin?",
+      "answers": ["Nakamoto", "Buterin", "Wright"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Bitcoin?",
+      "answers": ["Crypto", "Stock", "Bond"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "When was Bitcoin launched?",
+      "answers": ["2009", "2010", "2011"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is BTC?",
+      "answers": ["Ticker", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a Satoshi?",
+      "answers": ["Unit", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is mining?",
+      "answers": ["Creating", "Trading", "Sending"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Max BTC supply?",
+      "answers": ["21M", "18M", "24M"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "First BTC transaction?",
+      "answers": ["Pizza", "Coffee", "Car"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Bitcoin's network?",
+      "answers": ["Blockchain", "Ethereum", "Ripple"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC's smallest unit?",
+      "answers": ["Satoshi", "Wei", "Lovelace"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Bitcoin's creator?",
+      "answers": ["Nakamoto", "Musk", "Dorsey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC is mined using?",
+      "answers": ["ASICs", "CPUs", "GPUs"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Bitcoin's consensus?",
+      "answers": ["PoW", "PoS", "DPoS"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Bitcoin's symbol?",
+      "answers": ["BTC", "ETH", "XRP"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC whitepaper year?",
+      "answers": ["2008", "2009", "2010"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC block reward?",
+      "answers": ["6.25", "3.125", "12.5"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC transaction fee?",
+      "answers": ["Miner", "User", "Dev"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC Halving occurs?",
+      "answers": ["4 yrs", "2 yrs", "6 yrs"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "First BTC block?",
+      "answers": ["Genesis", "Alpha", "Beta"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC wallet types?",
+      "answers": ["Hot/Cold", "Warm", "Safe"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
